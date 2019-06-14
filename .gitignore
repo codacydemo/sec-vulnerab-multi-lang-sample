@@ -1,0 +1,14 @@
+target
+src/.codacyrc
+src/.codacy.json
+target/classes/JavaExample.class
+target/classes/SqlInjection.class
+target/classes/jsr305.jar
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/classes/Cwe434FileUploadServlet.class
+target/classes/CodeInjection.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+analysis_output.txt
+target/classes/Cwe134.class
+target/classes/XssJavaSample.class
+target/classes/CommandInjection.class
